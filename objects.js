@@ -1,4 +1,4 @@
 var playlist={'dion':'titanic'}
-function updatePlayList(playlist,artistName,SongTitle){
+function updatePlaylist(playlist,artistName,SongTitle){
   playlist.ricky='livin-da-vica-loca'
 }
