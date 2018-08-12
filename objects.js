@@ -1,1 +1,1 @@
-var Object={}
+var playlist={'dion':'titanic'}
